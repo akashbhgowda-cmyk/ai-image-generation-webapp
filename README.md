@@ -20,3 +20,9 @@ An AI-powered web application that generates images from text prompts using Stab
 ## How to Run
 pip install -r requirements.txt
 python app.py
+
+## Features
+- Text-to-image generation
+- Custom resolution selection
+- Interactive Gradio UI
+- PyTorch-based model pipeline
